@@ -1,0 +1,39 @@
+{
+  "name": "book-reader",
+  "version": "1.0.0",
+  "description": "Reading video for 小而美 Chapter 5",
+  "scripts": {
+    "start": "npx remotion studio",
+    "build": "npx remotion render",
+    "render": "npx remotion render src/index.ts BookReaderSeg01 --output ../outputs/chapter5/seg-01.mp4",
+    "server:lite": "npx tsx server-lite/index.ts",
+    "server:lite:dev": "npx tsx watch server-lite/index.ts",
+    "app:dev": "concurrently -n server,vite -c cyan,magenta \"npx tsx watch server-lite/index.ts\" \"npm run dev --prefix app\""
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.290",
+    "@remotion/google-fonts": "4.0.290",
+    "@remotion/media-utils": "4.0.290",
+    "archiver": "^7.0.1",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mediabunny": "1.40.0",
+    "multer": "^2.1.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.290",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/archiver": "^7.0.0",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/multer": "^2.1.0",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.1",
+    "@types/uuid": "^10.0.0",
+    "concurrently": "^9.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "5.4.5"
+  }
+}

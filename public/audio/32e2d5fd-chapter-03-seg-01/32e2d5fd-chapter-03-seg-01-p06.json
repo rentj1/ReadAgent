@@ -1,0 +1,1745 @@
+[
+  {
+    "text": "你",
+    "begin_index": 0,
+    "end_index": 1,
+    "begin_time": 280,
+    "end_time": 480
+  },
+  {
+    "text": "不",
+    "begin_index": 1,
+    "end_index": 2,
+    "begin_time": 480,
+    "end_time": 640
+  },
+  {
+    "text": "需",
+    "begin_index": 2,
+    "end_index": 3,
+    "begin_time": 640,
+    "end_time": 800
+  },
+  {
+    "text": "要",
+    "begin_index": 3,
+    "end_index": 4,
+    "begin_time": 800,
+    "end_time": 960
+  },
+  {
+    "text": "团",
+    "begin_index": 4,
+    "end_index": 5,
+    "begin_time": 960,
+    "end_time": 1240
+  },
+  {
+    "text": "队",
+    "begin_index": 5,
+    "end_index": 6,
+    "begin_time": 1240,
+    "end_time": 1480
+  },
+  {
+    "text": "、",
+    "begin_index": 6,
+    "end_index": 7,
+    "begin_time": 1520,
+    "end_time": 1600
+  },
+  {
+    "text": "资",
+    "begin_index": 7,
+    "end_index": 8,
+    "begin_time": 1600,
+    "end_time": 1920
+  },
+  {
+    "text": "金",
+    "begin_index": 8,
+    "end_index": 9,
+    "begin_time": 1920,
+    "end_time": 2160
+  },
+  {
+    "text": "或",
+    "begin_index": 9,
+    "end_index": 10,
+    "begin_time": 2280,
+    "end_time": 2480
+  },
+  {
+    "text": "者",
+    "begin_index": 10,
+    "end_index": 11,
+    "begin_time": 2480,
+    "end_time": 2640
+  },
+  {
+    "text": "某",
+    "begin_index": 11,
+    "end_index": 12,
+    "begin_time": 2680,
+    "end_time": 2880
+  },
+  {
+    "text": "个",
+    "begin_index": 12,
+    "end_index": 13,
+    "begin_time": 2880,
+    "end_time": 3000
+  },
+  {
+    "text": "文",
+    "begin_index": 13,
+    "end_index": 14,
+    "begin_time": 3000,
+    "end_time": 3200
+  },
+  {
+    "text": "凭",
+    "begin_index": 14,
+    "end_index": 15,
+    "begin_time": 3200,
+    "end_time": 3440
+  },
+  {
+    "text": "来",
+    "begin_index": 15,
+    "end_index": 16,
+    "begin_time": 3440,
+    "end_time": 3560
+  },
+  {
+    "text": "创",
+    "begin_index": 16,
+    "end_index": 17,
+    "begin_time": 3560,
+    "end_time": 3760
+  },
+  {
+    "text": "业",
+    "begin_index": 17,
+    "end_index": 18,
+    "begin_time": 3760,
+    "end_time": 3960
+  },
+  {
+    "text": "。",
+    "begin_index": 18,
+    "end_index": 19,
+    "begin_time": 3960,
+    "end_time": 4320
+  },
+  {
+    "text": "你",
+    "begin_index": 19,
+    "end_index": 20,
+    "begin_time": 4320,
+    "end_time": 4520
+  },
+  {
+    "text": "不",
+    "begin_index": 20,
+    "end_index": 21,
+    "begin_time": 4520,
+    "end_time": 4640
+  },
+  {
+    "text": "需",
+    "begin_index": 21,
+    "end_index": 22,
+    "begin_time": 4640,
+    "end_time": 4800
+  },
+  {
+    "text": "要",
+    "begin_index": 22,
+    "end_index": 23,
+    "begin_time": 4800,
+    "end_time": 4960
+  },
+  {
+    "text": "去",
+    "begin_index": 23,
+    "end_index": 24,
+    "begin_time": 4960,
+    "end_time": 5160
+  },
+  {
+    "text": "完",
+    "begin_index": 24,
+    "end_index": 25,
+    "begin_time": 5160,
+    "end_time": 5360
+  },
+  {
+    "text": "成",
+    "begin_index": 25,
+    "end_index": 26,
+    "begin_time": 5360,
+    "end_time": 5560
+  },
+  {
+    "text": "并",
+    "begin_index": 26,
+    "end_index": 27,
+    "begin_time": 5600,
+    "end_time": 5800
+  },
+  {
+    "text": "交",
+    "begin_index": 27,
+    "end_index": 28,
+    "begin_time": 5800,
+    "end_time": 6040
+  },
+  {
+    "text": "付",
+    "begin_index": 28,
+    "end_index": 29,
+    "begin_time": 6040,
+    "end_time": 6200
+  },
+  {
+    "text": "产",
+    "begin_index": 29,
+    "end_index": 30,
+    "begin_time": 6200,
+    "end_time": 6360
+  },
+  {
+    "text": "品",
+    "begin_index": 30,
+    "end_index": 31,
+    "begin_time": 6400,
+    "end_time": 6640
+  },
+  {
+    "text": "或",
+    "begin_index": 31,
+    "end_index": 32,
+    "begin_time": 6800,
+    "end_time": 7000
+  },
+  {
+    "text": "者",
+    "begin_index": 32,
+    "end_index": 33,
+    "begin_time": 7000,
+    "end_time": 7120
+  },
+  {
+    "text": "写",
+    "begin_index": 33,
+    "end_index": 34,
+    "begin_time": 7120,
+    "end_time": 7320
+  },
+  {
+    "text": "代",
+    "begin_index": 34,
+    "end_index": 35,
+    "begin_time": 7320,
+    "end_time": 7480
+  },
+  {
+    "text": "码",
+    "begin_index": 35,
+    "end_index": 36,
+    "begin_time": 7520,
+    "end_time": 7720
+  },
+  {
+    "text": "来",
+    "begin_index": 36,
+    "end_index": 37,
+    "begin_time": 7760,
+    "end_time": 7920
+  },
+  {
+    "text": "让",
+    "begin_index": 37,
+    "end_index": 38,
+    "begin_time": 7920,
+    "end_time": 8080
+  },
+  {
+    "text": "你",
+    "begin_index": 38,
+    "end_index": 39,
+    "begin_time": 8080,
+    "end_time": 8160
+  },
+  {
+    "text": "的",
+    "begin_index": 39,
+    "end_index": 40,
+    "begin_time": 8200,
+    "end_time": 8280
+  },
+  {
+    "text": "想",
+    "begin_index": 40,
+    "end_index": 41,
+    "begin_time": 8280,
+    "end_time": 8480
+  },
+  {
+    "text": "法",
+    "begin_index": 41,
+    "end_index": 42,
+    "begin_time": 8520,
+    "end_time": 8720
+  },
+  {
+    "text": "变",
+    "begin_index": 42,
+    "end_index": 43,
+    "begin_time": 8760,
+    "end_time": 8960
+  },
+  {
+    "text": "成",
+    "begin_index": 43,
+    "end_index": 44,
+    "begin_time": 8960,
+    "end_time": 9120
+  },
+  {
+    "text": "现",
+    "begin_index": 44,
+    "end_index": 45,
+    "begin_time": 9120,
+    "end_time": 9360
+  },
+  {
+    "text": "实",
+    "begin_index": 45,
+    "end_index": 46,
+    "begin_time": 9360,
+    "end_time": 9560
+  },
+  {
+    "text": "，",
+    "begin_index": 46,
+    "end_index": 47,
+    "begin_time": 9600,
+    "end_time": 9880
+  },
+  {
+    "text": "刚",
+    "begin_index": 47,
+    "end_index": 48,
+    "begin_time": 9880,
+    "end_time": 10040
+  },
+  {
+    "text": "开",
+    "begin_index": 48,
+    "end_index": 49,
+    "begin_time": 10080,
+    "end_time": 10240
+  },
+  {
+    "text": "始",
+    "begin_index": 49,
+    "end_index": 50,
+    "begin_time": 10240,
+    "end_time": 10360
+  },
+  {
+    "text": "是",
+    "begin_index": 50,
+    "end_index": 51,
+    "begin_time": 10400,
+    "end_time": 10520
+  },
+  {
+    "text": "这",
+    "begin_index": 51,
+    "end_index": 52,
+    "begin_time": 10520,
+    "end_time": 10680
+  },
+  {
+    "text": "样",
+    "begin_index": 52,
+    "end_index": 53,
+    "begin_time": 10720,
+    "end_time": 10800
+  },
+  {
+    "text": "你",
+    "begin_index": 53,
+    "end_index": 54,
+    "begin_time": 11427,
+    "end_time": 11627
+  },
+  {
+    "text": "可",
+    "begin_index": 54,
+    "end_index": 55,
+    "begin_time": 11627,
+    "end_time": 11787
+  },
+  {
+    "text": "能",
+    "begin_index": 55,
+    "end_index": 56,
+    "begin_time": 11787,
+    "end_time": 11947
+  },
+  {
+    "text": "以",
+    "begin_index": 56,
+    "end_index": 57,
+    "begin_time": 11947,
+    "end_time": 12067
+  },
+  {
+    "text": "后",
+    "begin_index": 57,
+    "end_index": 58,
+    "begin_time": 12107,
+    "end_time": 12267
+  },
+  {
+    "text": "会",
+    "begin_index": 58,
+    "end_index": 59,
+    "begin_time": 12347,
+    "end_time": 12507
+  },
+  {
+    "text": "需",
+    "begin_index": 59,
+    "end_index": 60,
+    "begin_time": 12507,
+    "end_time": 12747
+  },
+  {
+    "text": "要",
+    "begin_index": 60,
+    "end_index": 61,
+    "begin_time": 12747,
+    "end_time": 12867
+  },
+  {
+    "text": "，",
+    "begin_index": 61,
+    "end_index": 62,
+    "begin_time": 12867,
+    "end_time": 13067
+  },
+  {
+    "text": "不",
+    "begin_index": 62,
+    "end_index": 63,
+    "begin_time": 13147,
+    "end_time": 13387
+  },
+  {
+    "text": "过",
+    "begin_index": 63,
+    "end_index": 64,
+    "begin_time": 13387,
+    "end_time": 13587
+  },
+  {
+    "text": "，",
+    "begin_index": 64,
+    "end_index": 65,
+    "begin_time": 13667,
+    "end_time": 13787
+  },
+  {
+    "text": "当",
+    "begin_index": 65,
+    "end_index": 66,
+    "begin_time": 13787,
+    "end_time": 13987
+  },
+  {
+    "text": "你",
+    "begin_index": 66,
+    "end_index": 67,
+    "begin_time": 13987,
+    "end_time": 14147
+  },
+  {
+    "text": "拥",
+    "begin_index": 67,
+    "end_index": 68,
+    "begin_time": 14147,
+    "end_time": 14267
+  },
+  {
+    "text": "有",
+    "begin_index": 68,
+    "end_index": 69,
+    "begin_time": 14307,
+    "end_time": 14427
+  },
+  {
+    "text": "一",
+    "begin_index": 69,
+    "end_index": 70,
+    "begin_time": 14427,
+    "end_time": 14547
+  },
+  {
+    "text": "款",
+    "begin_index": 70,
+    "end_index": 71,
+    "begin_time": 14547,
+    "end_time": 14747
+  },
+  {
+    "text": "大",
+    "begin_index": 71,
+    "end_index": 72,
+    "begin_time": 14787,
+    "end_time": 14987
+  },
+  {
+    "text": "家",
+    "begin_index": 72,
+    "end_index": 73,
+    "begin_time": 14987,
+    "end_time": 15147
+  },
+  {
+    "text": "真",
+    "begin_index": 73,
+    "end_index": 74,
+    "begin_time": 15147,
+    "end_time": 15347
+  },
+  {
+    "text": "正",
+    "begin_index": 74,
+    "end_index": 75,
+    "begin_time": 15347,
+    "end_time": 15547
+  },
+  {
+    "text": "看",
+    "begin_index": 75,
+    "end_index": 76,
+    "begin_time": 15547,
+    "end_time": 15787
+  },
+  {
+    "text": "重",
+    "begin_index": 76,
+    "end_index": 77,
+    "begin_time": 15787,
+    "end_time": 16027
+  },
+  {
+    "text": "的",
+    "begin_index": 77,
+    "end_index": 78,
+    "begin_time": 16027,
+    "end_time": 16147
+  },
+  {
+    "text": "产",
+    "begin_index": 78,
+    "end_index": 79,
+    "begin_time": 16147,
+    "end_time": 16307
+  },
+  {
+    "text": "品",
+    "begin_index": 79,
+    "end_index": 80,
+    "begin_time": 16347,
+    "end_time": 16507
+  },
+  {
+    "text": "时",
+    "begin_index": 80,
+    "end_index": 81,
+    "begin_time": 16507,
+    "end_time": 16707
+  },
+  {
+    "text": "，",
+    "begin_index": 81,
+    "end_index": 82,
+    "begin_time": 16707,
+    "end_time": 17027
+  },
+  {
+    "text": "这",
+    "begin_index": 82,
+    "end_index": 83,
+    "begin_time": 17067,
+    "end_time": 17267
+  },
+  {
+    "text": "些",
+    "begin_index": 83,
+    "end_index": 84,
+    "begin_time": 17307,
+    "end_time": 17427
+  },
+  {
+    "text": "事",
+    "begin_index": 84,
+    "end_index": 85,
+    "begin_time": 17427,
+    "end_time": 17627
+  },
+  {
+    "text": "情",
+    "begin_index": 85,
+    "end_index": 86,
+    "begin_time": 17627,
+    "end_time": 17827
+  },
+  {
+    "text": "都",
+    "begin_index": 86,
+    "end_index": 87,
+    "begin_time": 17867,
+    "end_time": 18187
+  },
+  {
+    "text": "会",
+    "begin_index": 87,
+    "end_index": 88,
+    "begin_time": 18187,
+    "end_time": 18347
+  },
+  {
+    "text": "以",
+    "begin_index": 88,
+    "end_index": 89,
+    "begin_time": 18347,
+    "end_time": 18547
+  },
+  {
+    "text": "比",
+    "begin_index": 89,
+    "end_index": 90,
+    "begin_time": 18547,
+    "end_time": 18747
+  },
+  {
+    "text": "你",
+    "begin_index": 90,
+    "end_index": 91,
+    "begin_time": 18747,
+    "end_time": 18867
+  },
+  {
+    "text": "想",
+    "begin_index": 91,
+    "end_index": 92,
+    "begin_time": 18867,
+    "end_time": 19107
+  },
+  {
+    "text": "的",
+    "begin_index": 92,
+    "end_index": 93,
+    "begin_time": 19107,
+    "end_time": 19227
+  },
+  {
+    "text": "更",
+    "begin_index": 93,
+    "end_index": 94,
+    "begin_time": 19227,
+    "end_time": 19387
+  },
+  {
+    "text": "容",
+    "begin_index": 94,
+    "end_index": 95,
+    "begin_time": 19387,
+    "end_time": 19587
+  },
+  {
+    "text": "易",
+    "begin_index": 95,
+    "end_index": 96,
+    "begin_time": 19627,
+    "end_time": 19827
+  },
+  {
+    "text": "、",
+    "begin_index": 96,
+    "end_index": 97,
+    "begin_time": 19827,
+    "end_time": 20027
+  },
+  {
+    "text": "更",
+    "begin_index": 97,
+    "end_index": 98,
+    "begin_time": 20027,
+    "end_time": 20227
+  },
+  {
+    "text": "便",
+    "begin_index": 98,
+    "end_index": 99,
+    "begin_time": 20267,
+    "end_time": 20507
+  },
+  {
+    "text": "宜",
+    "begin_index": 99,
+    "end_index": 100,
+    "begin_time": 20507,
+    "end_time": 20627
+  },
+  {
+    "text": "的",
+    "begin_index": 100,
+    "end_index": 101,
+    "begin_time": 20627,
+    "end_time": 20707
+  },
+  {
+    "text": "途",
+    "begin_index": 101,
+    "end_index": 102,
+    "begin_time": 20707,
+    "end_time": 20907
+  },
+  {
+    "text": "径",
+    "begin_index": 102,
+    "end_index": 103,
+    "begin_time": 20907,
+    "end_time": 21027
+  },
+  {
+    "text": "实",
+    "begin_index": 103,
+    "end_index": 104,
+    "begin_time": 21067,
+    "end_time": 21227
+  },
+  {
+    "text": "现",
+    "begin_index": 104,
+    "end_index": 105,
+    "begin_time": 21227,
+    "end_time": 21427
+  },
+  {
+    "text": "。",
+    "begin_index": 105,
+    "end_index": 106,
+    "begin_time": 21427,
+    "end_time": 21627
+  },
+  {
+    "text": "通",
+    "begin_index": 106,
+    "end_index": 107,
+    "begin_time": 21867,
+    "end_time": 22067
+  },
+  {
+    "text": "常",
+    "begin_index": 107,
+    "end_index": 108,
+    "begin_time": 22067,
+    "end_time": 22307
+  },
+  {
+    "text": "，",
+    "begin_index": 108,
+    "end_index": 109,
+    "begin_time": 22347,
+    "end_time": 22587
+  },
+  {
+    "text": "它",
+    "begin_index": 109,
+    "end_index": 110,
+    "begin_time": 23353,
+    "end_time": 23553
+  },
+  {
+    "text": "们",
+    "begin_index": 110,
+    "end_index": 111,
+    "begin_time": 23553,
+    "end_time": 23673
+  },
+  {
+    "text": "会",
+    "begin_index": 111,
+    "end_index": 112,
+    "begin_time": 23673,
+    "end_time": 23793
+  },
+  {
+    "text": "找",
+    "begin_index": 112,
+    "end_index": 113,
+    "begin_time": 23793,
+    "end_time": 23993
+  },
+  {
+    "text": "到",
+    "begin_index": 113,
+    "end_index": 114,
+    "begin_time": 23993,
+    "end_time": 24153
+  },
+  {
+    "text": "你",
+    "begin_index": 114,
+    "end_index": 115,
+    "begin_time": 24153,
+    "end_time": 24353
+  },
+  {
+    "text": "。",
+    "begin_index": 115,
+    "end_index": 116,
+    "begin_time": 24353,
+    "end_time": 24673
+  },
+  {
+    "text": "如",
+    "begin_index": 116,
+    "end_index": 117,
+    "begin_time": 24793,
+    "end_time": 24993
+  },
+  {
+    "text": "果",
+    "begin_index": 117,
+    "end_index": 118,
+    "begin_time": 24993,
+    "end_time": 25233
+  },
+  {
+    "text": "你",
+    "begin_index": 118,
+    "end_index": 119,
+    "begin_time": 25233,
+    "end_time": 25393
+  },
+  {
+    "text": "真",
+    "begin_index": 119,
+    "end_index": 120,
+    "begin_time": 25393,
+    "end_time": 25593
+  },
+  {
+    "text": "心",
+    "begin_index": 120,
+    "end_index": 121,
+    "begin_time": 25593,
+    "end_time": 25833
+  },
+  {
+    "text": "实",
+    "begin_index": 121,
+    "end_index": 122,
+    "begin_time": 25833,
+    "end_time": 26033
+  },
+  {
+    "text": "意",
+    "begin_index": 122,
+    "end_index": 123,
+    "begin_time": 26033,
+    "end_time": 26193
+  },
+  {
+    "text": "地",
+    "begin_index": 123,
+    "end_index": 124,
+    "begin_time": 26193,
+    "end_time": 26353
+  },
+  {
+    "text": "想",
+    "begin_index": 124,
+    "end_index": 125,
+    "begin_time": 26353,
+    "end_time": 26553
+  },
+  {
+    "text": "要",
+    "begin_index": 125,
+    "end_index": 126,
+    "begin_time": 26553,
+    "end_time": 26673
+  },
+  {
+    "text": "解",
+    "begin_index": 126,
+    "end_index": 127,
+    "begin_time": 26673,
+    "end_time": 26833
+  },
+  {
+    "text": "决",
+    "begin_index": 127,
+    "end_index": 128,
+    "begin_time": 26833,
+    "end_time": 26993
+  },
+  {
+    "text": "问",
+    "begin_index": 128,
+    "end_index": 129,
+    "begin_time": 26993,
+    "end_time": 27113
+  },
+  {
+    "text": "题",
+    "begin_index": 129,
+    "end_index": 130,
+    "begin_time": 27153,
+    "end_time": 27353
+  },
+  {
+    "text": "，",
+    "begin_index": 130,
+    "end_index": 131,
+    "begin_time": 27353,
+    "end_time": 27633
+  },
+  {
+    "text": "你",
+    "begin_index": 131,
+    "end_index": 132,
+    "begin_time": 27673,
+    "end_time": 27873
+  },
+  {
+    "text": "就",
+    "begin_index": 132,
+    "end_index": 133,
+    "begin_time": 27873,
+    "end_time": 27993
+  },
+  {
+    "text": "能",
+    "begin_index": 133,
+    "end_index": 134,
+    "begin_time": 28033,
+    "end_time": 28153
+  },
+  {
+    "text": "够",
+    "begin_index": 134,
+    "end_index": 135,
+    "begin_time": 28153,
+    "end_time": 28313
+  },
+  {
+    "text": "克",
+    "begin_index": 135,
+    "end_index": 136,
+    "begin_time": 28353,
+    "end_time": 28553
+  },
+  {
+    "text": "服",
+    "begin_index": 136,
+    "end_index": 137,
+    "begin_time": 28553,
+    "end_time": 28793
+  },
+  {
+    "text": "道",
+    "begin_index": 137,
+    "end_index": 138,
+    "begin_time": 28873,
+    "end_time": 29073
+  },
+  {
+    "text": "路",
+    "begin_index": 138,
+    "end_index": 139,
+    "begin_time": 29113,
+    "end_time": 29233
+  },
+  {
+    "text": "上",
+    "begin_index": 139,
+    "end_index": 140,
+    "begin_time": 29233,
+    "end_time": 29433
+  },
+  {
+    "text": "一",
+    "begin_index": 140,
+    "end_index": 141,
+    "begin_time": 29473,
+    "end_time": 29713
+  },
+  {
+    "text": "个",
+    "begin_index": 141,
+    "end_index": 142,
+    "begin_time": 29833,
+    "end_time": 29953
+  },
+  {
+    "text": "一",
+    "begin_index": 142,
+    "end_index": 143,
+    "begin_time": 29953,
+    "end_time": 30073
+  },
+  {
+    "text": "个",
+    "begin_index": 143,
+    "end_index": 144,
+    "begin_time": 30073,
+    "end_time": 30233
+  },
+  {
+    "text": "的",
+    "begin_index": 144,
+    "end_index": 145,
+    "begin_time": 30233,
+    "end_time": 30273
+  },
+  {
+    "text": "障",
+    "begin_index": 145,
+    "end_index": 146,
+    "begin_time": 30273,
+    "end_time": 30473
+  },
+  {
+    "text": "碍",
+    "begin_index": 146,
+    "end_index": 147,
+    "begin_time": 30513,
+    "end_time": 30673
+  },
+  {
+    "text": "。",
+    "begin_index": 147,
+    "end_index": 148,
+    "begin_time": 30713,
+    "end_time": 30913
+  },
+  {
+    "text": "如",
+    "begin_index": 148,
+    "end_index": 149,
+    "begin_time": 30913,
+    "end_time": 31313
+  },
+  {
+    "text": "果",
+    "begin_index": 149,
+    "end_index": 150,
+    "begin_time": 31313,
+    "end_time": 31473
+  },
+  {
+    "text": "你",
+    "begin_index": 150,
+    "end_index": 151,
+    "begin_time": 31473,
+    "end_time": 31593
+  },
+  {
+    "text": "下",
+    "begin_index": 151,
+    "end_index": 152,
+    "begin_time": 31633,
+    "end_time": 31833
+  },
+  {
+    "text": "定",
+    "begin_index": 152,
+    "end_index": 153,
+    "begin_time": 31873,
+    "end_time": 31993
+  },
+  {
+    "text": "决",
+    "begin_index": 153,
+    "end_index": 154,
+    "begin_time": 31993,
+    "end_time": 32193
+  },
+  {
+    "text": "心",
+    "begin_index": 154,
+    "end_index": 155,
+    "begin_time": 32193,
+    "end_time": 32433
+  },
+  {
+    "text": "服",
+    "begin_index": 155,
+    "end_index": 156,
+    "begin_time": 32513,
+    "end_time": 32753
+  },
+  {
+    "text": "务",
+    "begin_index": 156,
+    "end_index": 157,
+    "begin_time": 32753,
+    "end_time": 32873
+  },
+  {
+    "text": "客",
+    "begin_index": 157,
+    "end_index": 158,
+    "begin_time": 32873,
+    "end_time": 33073
+  },
+  {
+    "text": "户",
+    "begin_index": 158,
+    "end_index": 159,
+    "begin_time": 33073,
+    "end_time": 33233
+  },
+  {
+    "text": "，",
+    "begin_index": 159,
+    "end_index": 160,
+    "begin_time": 33273,
+    "end_time": 33633
+  },
+  {
+    "text": "你",
+    "begin_index": 160,
+    "end_index": 161,
+    "begin_time": 34277,
+    "end_time": 34437
+  },
+  {
+    "text": "就",
+    "begin_index": 161,
+    "end_index": 162,
+    "begin_time": 34437,
+    "end_time": 34557
+  },
+  {
+    "text": "可",
+    "begin_index": 162,
+    "end_index": 163,
+    "begin_time": 34597,
+    "end_time": 34717
+  },
+  {
+    "text": "以",
+    "begin_index": 163,
+    "end_index": 164,
+    "begin_time": 34717,
+    "end_time": 34837
+  },
+  {
+    "text": "去",
+    "begin_index": 164,
+    "end_index": 165,
+    "begin_time": 34837,
+    "end_time": 34997
+  },
+  {
+    "text": "学",
+    "begin_index": 165,
+    "end_index": 166,
+    "begin_time": 34997,
+    "end_time": 35237
+  },
+  {
+    "text": "你",
+    "begin_index": 166,
+    "end_index": 167,
+    "begin_time": 35237,
+    "end_time": 35397
+  },
+  {
+    "text": "需",
+    "begin_index": 167,
+    "end_index": 168,
+    "begin_time": 35397,
+    "end_time": 35597
+  },
+  {
+    "text": "要",
+    "begin_index": 168,
+    "end_index": 169,
+    "begin_time": 35597,
+    "end_time": 35677
+  },
+  {
+    "text": "知",
+    "begin_index": 169,
+    "end_index": 170,
+    "begin_time": 35677,
+    "end_time": 35877
+  },
+  {
+    "text": "道",
+    "begin_index": 170,
+    "end_index": 171,
+    "begin_time": 35917,
+    "end_time": 36037
+  },
+  {
+    "text": "的",
+    "begin_index": 171,
+    "end_index": 172,
+    "begin_time": 36037,
+    "end_time": 36117
+  },
+  {
+    "text": "那",
+    "begin_index": 172,
+    "end_index": 173,
+    "begin_time": 36117,
+    "end_time": 36237
+  },
+  {
+    "text": "些",
+    "begin_index": 173,
+    "end_index": 174,
+    "begin_time": 36237,
+    "end_time": 36357
+  },
+  {
+    "text": "东",
+    "begin_index": 174,
+    "end_index": 175,
+    "begin_time": 36357,
+    "end_time": 36517
+  },
+  {
+    "text": "西",
+    "begin_index": 175,
+    "end_index": 176,
+    "begin_time": 36557,
+    "end_time": 36757
+  },
+  {
+    "text": "，",
+    "begin_index": 176,
+    "end_index": 177,
+    "begin_time": 36757,
+    "end_time": 37037
+  },
+  {
+    "text": "然",
+    "begin_index": 177,
+    "end_index": 178,
+    "begin_time": 37037,
+    "end_time": 37237
+  },
+  {
+    "text": "后",
+    "begin_index": 178,
+    "end_index": 179,
+    "begin_time": 37277,
+    "end_time": 37437
+  },
+  {
+    "text": "将",
+    "begin_index": 179,
+    "end_index": 180,
+    "begin_time": 37477,
+    "end_time": 37637
+  },
+  {
+    "text": "剩",
+    "begin_index": 180,
+    "end_index": 181,
+    "begin_time": 37637,
+    "end_time": 37917
+  },
+  {
+    "text": "下",
+    "begin_index": 181,
+    "end_index": 182,
+    "begin_time": 37917,
+    "end_time": 38077
+  },
+  {
+    "text": "的",
+    "begin_index": 182,
+    "end_index": 183,
+    "begin_time": 38077,
+    "end_time": 38157
+  },
+  {
+    "text": "部",
+    "begin_index": 183,
+    "end_index": 184,
+    "begin_time": 38157,
+    "end_time": 38317
+  },
+  {
+    "text": "分",
+    "begin_index": 184,
+    "end_index": 185,
+    "begin_time": 38317,
+    "end_time": 38517
+  },
+  {
+    "text": "外",
+    "begin_index": 185,
+    "end_index": 186,
+    "begin_time": 38517,
+    "end_time": 38717
+  },
+  {
+    "text": "包",
+    "begin_index": 186,
+    "end_index": 187,
+    "begin_time": 38757,
+    "end_time": 38957
+  },
+  {
+    "text": "出",
+    "begin_index": 187,
+    "end_index": 188,
+    "begin_time": 38957,
+    "end_time": 39117
+  },
+  {
+    "text": "去",
+    "begin_index": 188,
+    "end_index": 189,
+    "begin_time": 39157,
+    "end_time": 39317
+  },
+  {
+    "text": "。",
+    "begin_index": 189,
+    "end_index": 190,
+    "begin_time": 39317,
+    "end_time": 39677
+  },
+  {
+    "text": "只",
+    "begin_index": 190,
+    "end_index": 191,
+    "begin_time": 39677,
+    "end_time": 39877
+  },
+  {
+    "text": "需",
+    "begin_index": 191,
+    "end_index": 192,
+    "begin_time": 39917,
+    "end_time": 40037
+  },
+  {
+    "text": "要",
+    "begin_index": 192,
+    "end_index": 193,
+    "begin_time": 40037,
+    "end_time": 40157
+  },
+  {
+    "text": "想",
+    "begin_index": 193,
+    "end_index": 194,
+    "begin_time": 40197,
+    "end_time": 40397
+  },
+  {
+    "text": "清",
+    "begin_index": 194,
+    "end_index": 195,
+    "begin_time": 40397,
+    "end_time": 40597
+  },
+  {
+    "text": "楚",
+    "begin_index": 195,
+    "end_index": 196,
+    "begin_time": 40597,
+    "end_time": 40797
+  },
+  {
+    "text": "自",
+    "begin_index": 196,
+    "end_index": 197,
+    "begin_time": 40797,
+    "end_time": 40957
+  },
+  {
+    "text": "己",
+    "begin_index": 197,
+    "end_index": 198,
+    "begin_time": 40957,
+    "end_time": 41117
+  },
+  {
+    "text": "的",
+    "begin_index": 198,
+    "end_index": 199,
+    "begin_time": 41117,
+    "end_time": 41277
+  },
+  {
+    "text": "哪",
+    "begin_index": 199,
+    "end_index": 200,
+    "begin_time": 41277,
+    "end_time": 41437
+  },
+  {
+    "text": "些",
+    "begin_index": 200,
+    "end_index": 201,
+    "begin_time": 41477,
+    "end_time": 41677
+  },
+  {
+    "text": "技",
+    "begin_index": 201,
+    "end_index": 202,
+    "begin_time": 41677,
+    "end_time": 41877
+  },
+  {
+    "text": "能",
+    "begin_index": 202,
+    "end_index": 203,
+    "begin_time": 41877,
+    "end_time": 42037
+  },
+  {
+    "text": "、",
+    "begin_index": 203,
+    "end_index": 204,
+    "begin_time": 42037,
+    "end_time": 42197
+  },
+  {
+    "text": "知",
+    "begin_index": 204,
+    "end_index": 205,
+    "begin_time": 42197,
+    "end_time": 42437
+  },
+  {
+    "text": "识",
+    "begin_index": 205,
+    "end_index": 206,
+    "begin_time": 42437,
+    "end_time": 42717
+  },
+  {
+    "text": "和",
+    "begin_index": 206,
+    "end_index": 207,
+    "begin_time": 42717,
+    "end_time": 42917
+  },
+  {
+    "text": "背",
+    "begin_index": 207,
+    "end_index": 208,
+    "begin_time": 42917,
+    "end_time": 43157
+  },
+  {
+    "text": "景",
+    "begin_index": 208,
+    "end_index": 209,
+    "begin_time": 43157,
+    "end_time": 43357
+  },
+  {
+    "text": "与",
+    "begin_index": 209,
+    "end_index": 210,
+    "begin_time": 43437,
+    "end_time": 43637
+  },
+  {
+    "text": "头",
+    "begin_index": 210,
+    "end_index": 211,
+    "begin_time": 43637,
+    "end_time": 43877
+  },
+  {
+    "text": "脑",
+    "begin_index": 211,
+    "end_index": 212,
+    "begin_time": 43917,
+    "end_time": 44037
+  },
+  {
+    "text": "中",
+    "begin_index": 212,
+    "end_index": 213,
+    "begin_time": 44077,
+    "end_time": 44197
+  },
+  {
+    "text": "的",
+    "begin_index": 213,
+    "end_index": 214,
+    "begin_time": 44197,
+    "end_time": 44317
+  },
+  {
+    "text": "生",
+    "begin_index": 214,
+    "end_index": 215,
+    "begin_time": 44317,
+    "end_time": 44517
+  },
+  {
+    "text": "意",
+    "begin_index": 215,
+    "end_index": 216,
+    "begin_time": 44517,
+    "end_time": 44677
+  },
+  {
+    "text": "相",
+    "begin_index": 216,
+    "end_index": 217,
+    "begin_time": 44677,
+    "end_time": 44837
+  },
+  {
+    "text": "符",
+    "begin_index": 217,
+    "end_index": 218,
+    "begin_time": 44877,
+    "end_time": 45117
+  },
+  {
+    "text": "，",
+    "begin_index": 218,
+    "end_index": 219,
+    "begin_time": 45117,
+    "end_time": 45557
+  },
+  {
+    "text": "并",
+    "begin_index": 219,
+    "end_index": 220,
+    "begin_time": 46164,
+    "end_time": 46364
+  },
+  {
+    "text": "最",
+    "begin_index": 220,
+    "end_index": 221,
+    "begin_time": 46444,
+    "end_time": 46684
+  },
+  {
+    "text": "大",
+    "begin_index": 221,
+    "end_index": 222,
+    "begin_time": 46724,
+    "end_time": 46884
+  },
+  {
+    "text": "化",
+    "begin_index": 222,
+    "end_index": 223,
+    "begin_time": 46884,
+    "end_time": 47044
+  },
+  {
+    "text": "地",
+    "begin_index": 223,
+    "end_index": 224,
+    "begin_time": 47084,
+    "end_time": 47244
+  },
+  {
+    "text": "去",
+    "begin_index": 224,
+    "end_index": 225,
+    "begin_time": 47284,
+    "end_time": 47484
+  },
+  {
+    "text": "利",
+    "begin_index": 225,
+    "end_index": 226,
+    "begin_time": 47484,
+    "end_time": 47804
+  },
+  {
+    "text": "用",
+    "begin_index": 226,
+    "end_index": 227,
+    "begin_time": 47804,
+    "end_time": 47924
+  },
+  {
+    "text": "这",
+    "begin_index": 227,
+    "end_index": 228,
+    "begin_time": 47924,
+    "end_time": 48044
+  },
+  {
+    "text": "些",
+    "begin_index": 228,
+    "end_index": 229,
+    "begin_time": 48044,
+    "end_time": 48204
+  },
+  {
+    "text": "优",
+    "begin_index": 229,
+    "end_index": 230,
+    "begin_time": 48204,
+    "end_time": 48364
+  },
+  {
+    "text": "势",
+    "begin_index": 230,
+    "end_index": 231,
+    "begin_time": 48364,
+    "end_time": 48524
+  },
+  {
+    "text": "。",
+    "begin_index": 231,
+    "end_index": 232,
+    "begin_time": 48524,
+    "end_time": 48724
+  },
+  {
+    "text": "不",
+    "begin_index": 232,
+    "end_index": 233,
+    "begin_time": 48884,
+    "end_time": 49164
+  },
+  {
+    "text": "需",
+    "begin_index": 233,
+    "end_index": 234,
+    "begin_time": 49164,
+    "end_time": 49324
+  },
+  {
+    "text": "要",
+    "begin_index": 234,
+    "end_index": 235,
+    "begin_time": 49324,
+    "end_time": 49444
+  },
+  {
+    "text": "征",
+    "begin_index": 235,
+    "end_index": 236,
+    "begin_time": 49444,
+    "end_time": 49604
+  },
+  {
+    "text": "得",
+    "begin_index": 236,
+    "end_index": 237,
+    "begin_time": 49604,
+    "end_time": 49804
+  },
+  {
+    "text": "他",
+    "begin_index": 237,
+    "end_index": 238,
+    "begin_time": 49804,
+    "end_time": 50004
+  },
+  {
+    "text": "人",
+    "begin_index": 238,
+    "end_index": 239,
+    "begin_time": 50044,
+    "end_time": 50124
+  },
+  {
+    "text": "的",
+    "begin_index": 239,
+    "end_index": 240,
+    "begin_time": 50124,
+    "end_time": 50244
+  },
+  {
+    "text": "同",
+    "begin_index": 240,
+    "end_index": 241,
+    "begin_time": 50244,
+    "end_time": 50444
+  },
+  {
+    "text": "意",
+    "begin_index": 241,
+    "end_index": 242,
+    "begin_time": 50484,
+    "end_time": 50644
+  },
+  {
+    "text": "，",
+    "begin_index": 242,
+    "end_index": 243,
+    "begin_time": 50644,
+    "end_time": 50764
+  },
+  {
+    "text": "直",
+    "begin_index": 243,
+    "end_index": 244,
+    "begin_time": 50764,
+    "end_time": 51044
+  },
+  {
+    "text": "接",
+    "begin_index": 244,
+    "end_index": 245,
+    "begin_time": 51124,
+    "end_time": 51324
+  },
+  {
+    "text": "开",
+    "begin_index": 245,
+    "end_index": 246,
+    "begin_time": 51324,
+    "end_time": 51524
+  },
+  {
+    "text": "始",
+    "begin_index": 246,
+    "end_index": 247,
+    "begin_time": 51524,
+    "end_time": 51684
+  },
+  {
+    "text": "行",
+    "begin_index": 247,
+    "end_index": 248,
+    "begin_time": 51684,
+    "end_time": 51804
+  },
+  {
+    "text": "动",
+    "begin_index": 248,
+    "end_index": 249,
+    "begin_time": 51844,
+    "end_time": 51964
+  }
+]

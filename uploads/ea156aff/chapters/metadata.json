@@ -1,0 +1,90 @@
+{
+  "bookId": "ea156aff",
+  "sourcePdf": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff.pdf",
+  "chapterDetectionMethod": "bookmarks",
+  "pdfMetadata": {},
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "第一章 极简主义创业者",
+      "filename": "01_第一章_极简主义创业者.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/01_第一章_极简主义创业者.pdf",
+      "start_page": 13,
+      "end_page": 29,
+      "page_count": 17
+    },
+    {
+      "chapter_num": 2,
+      "title": "第二章 从社区着手",
+      "filename": "02_第二章_从社区着手.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/02_第二章_从社区着手.pdf",
+      "start_page": 30,
+      "end_page": 62,
+      "page_count": 33
+    },
+    {
+      "chapter_num": 3,
+      "title": "第乺₍詜ᆍ詙",
+      "filename": "03_第乺₍詜ᆍ詙.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/03_第乺₍詜ᆍ詙.pdf",
+      "start_page": 63,
+      "end_page": 88,
+      "page_count": 26
+    },
+    {
+      "chapter_num": 4,
+      "title": "第四章 瞄准你的前100个客户",
+      "filename": "04_第四章_瞄准你的前100个客户.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/04_第四章_瞄准你的前100个客户.pdf",
+      "start_page": 89,
+      "end_page": 112,
+      "page_count": 24
+    },
+    {
+      "chapter_num": 5,
+      "title": "第五章 通过做自己来营销",
+      "filename": "05_第五章_通过做自己来营销.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/05_第五章_通过做自己来营销.pdf",
+      "start_page": 113,
+      "end_page": 145,
+      "page_count": 33
+    },
+    {
+      "chapter_num": 6,
+      "title": "第六章 条ྋ왗ろ",
+      "filename": "06_第六章_条ྋ왗ろ.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/06_第六章_条ྋ왗ろ.pdf",
+      "start_page": 146,
+      "end_page": 170,
+      "page_count": 25
+    },
+    {
+      "chapter_num": 7,
+      "title": "第七章 建造你想住的房子",
+      "filename": "07_第七章_建造你想住的房子.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/07_第七章_建造你想住的房子.pdf",
+      "start_page": 171,
+      "end_page": 194,
+      "page_count": 24
+    },
+    {
+      "chapter_num": 8,
+      "title": "第八章 我们要何去何从",
+      "filename": "08_第八章_我们要何去何从.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/08_第八章_我们要何去何从.pdf",
+      "start_page": 195,
+      "end_page": 208,
+      "page_count": 14
+    },
+    {
+      "chapter_num": 9,
+      "title": "还李N",
+      "filename": "09_还李N.pdf",
+      "path": "/Users/rkx/agent/video-agent/book-reader/uploads/ea156aff/chapters/09_还李N.pdf",
+      "start_page": 209,
+      "end_page": 230,
+      "page_count": 22
+    }
+  ],
+  "totalChapters": 9
+}
